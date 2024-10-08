@@ -1,0 +1,10 @@
+{
+    "name": "CelestialOutskirt",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/RandomCatDude/RoRR-CelestialOutskirt",
+    "description": "Adds a new Stage 2, \"Celestial Outskirt\"",
+    "dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.38",
+		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.1.10"
+	]
+}
