@@ -1,5 +1,5 @@
 # Celestial Outskirt
-![screenshot of Celestial Outskirts](https://github.com/RandomCatDude/RoRR-CelestialOutskirt/blob/main/showcase.png)
+![screenshot of Celestial Outskirts](https://github.com/RandomCatDude/RoRR-CelestialOutskirt/blob/main/showcase.png?raw=true)
 
 ## Credits
 * ululu from the RoRR modding discord for assisting with writing the logbook
