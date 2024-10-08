@@ -22,11 +22,11 @@ function __initialize()
 
 	umbraA_card.spawn_cost = 150
 	umbraA_card.object_id = gm.constants.oUmbraA
-	umbraB_card.spawn_cost = 150
+	umbraB_card.spawn_cost = 200
 	umbraB_card.object_id = gm.constants.oUmbraB
-	umbraC_card.spawn_cost = 150
+	umbraC_card.spawn_cost = 250
 	umbraC_card.object_id = gm.constants.oUmbraC
-	umbraD_card.spawn_cost = 150
+	umbraD_card.spawn_cost = 300
 	umbraD_card.object_id = gm.constants.oUmbraD
 
 	skyIslands:clear_monsters()
